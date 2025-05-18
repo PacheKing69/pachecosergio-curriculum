@@ -1,12 +1,12 @@
 # Sergio Pacheco Carrasco
 
-📍 **Cardedeu (08440)**  
-📞 **Telèfon:** 666 95 37 38  
-✉️ **Email:** sergiopacheco6374@gmail.com
+    **Cardedeu (08440)**  
+    **Telèfon:** 666 95 37 38  
+    **Email:** sergiopacheco6374@gmail.com
 
 ---
 
-## 🎓 Formació Acadèmica
+##  Formació Acadèmica
 
 - **Cicle Formatiu de Grau Mitjà en Sistemes Microinformàtics i Xarxes (SMX)**  
   Escola Ginebró, Llinars del Vallès  
@@ -14,13 +14,13 @@
 
 ---
 
-## 💼 Experiència Laboral
+##  Experiència Laboral
 
 *Sense experiència laboral especificada.*
 
 ---
 
-## 🌍 Idiomes
+##   Idiomes
 
 - Castellà: llengua materna  
 - Català: nivell C  
@@ -28,11 +28,11 @@
 
 ---
 
-## 🔄 Altres Dades
+##   Altres Dades
 
 - **Disponibilitat horària total**  
 - **Incorporació immediata**
 
 ---
 
-📄 [Descarrega el CV en PDF](./Curriculum%20vitae.pdf)
+  [Descarrega el CV en PDF](./Curriculum%20vitae.pdf)
