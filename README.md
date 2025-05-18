@@ -1,8 +1,8 @@
 # Sergio Pacheco Carrasco
 
-    **Cardedeu (08440)**  
-    **Telèfon:** 666 95 37 38  
-    **Email:** sergiopacheco6374@gmail.com
+   **Cardedeu (08440)**  
+   **Telèfon:** 666 95 37 38  
+   **Email:** sergiopacheco6374@gmail.com
 
 ---
 
